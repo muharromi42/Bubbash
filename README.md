@@ -8,6 +8,7 @@ Team 9
 
 Installation Instructions
 1. Download game nya dari situs resmi
+https://globalgamejam.org/games/2025/bubbash-2
 2. Kemudian ekstrak file nya menggunakan winrar / app yang lain
 3. Buka file game bernama BUBBASH.exe
 4. Enjoy the game~~~
