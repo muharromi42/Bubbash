@@ -1,4 +1,4 @@
-#Game Project Bubbash cloning onet using unity
+# Game Project Bubbash cloning onet using unity
 
 Permainan Bubbash adalah permainan teka-teki di mana pemain harus mencocokan warna bubble yang identik dengan menghubungkan menggunakan garis yang tidak lebih dari dua belokan. Papan permainan terdiri dari grid gambar yang tertata acak, dan pemain harus mencari dua bubble yang sama untuk dicocokkan. Garis penghubung harus bebas dari halangan dan hanya bisa melengkung hingga dua kali. Dan permainana memiliki batasan waktu, sehingga pemain harus mencocokkan semua pasangan bubble sebelum waktu habis.
 
