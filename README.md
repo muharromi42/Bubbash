@@ -18,3 +18,7 @@ https://globalgamejam.org/games/2025/bubbash-2
 2. Kemudian ekstrak file nya menggunakan winrar / app yang lain
 3. Buka file game bernama BUBBASH.exe
 4. Enjoy the game~~~
+
+Gameplay Screenshot
+
+![Screenshot 2025-01-26 201027](https://github.com/user-attachments/assets/351621ec-6ade-43c2-b13c-e3cd80a70764)
